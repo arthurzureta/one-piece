@@ -58,3 +58,9 @@ a{
     text-decoration: dashed;
 }
 
+@media screen and (max-width: 800px){
+  main{
+    grid-template-columns: 1fr;
+    justify-content: center;
+  }
+}
