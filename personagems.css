@@ -60,7 +60,6 @@ a{
 
 @media screen and (max-width: 800px){
   main{
-    grid-template-columns: 1fr;
     justify-content: center;
   }
 }
