@@ -13,6 +13,9 @@ header{
     flex-direction: column;
 }
 
+img{
+    max-width: 100%;
+}
 
 .logo-do-site{
     width: 84px;
