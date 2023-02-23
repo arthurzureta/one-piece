@@ -59,7 +59,14 @@ a{
 }
 
 @media screen and (max-width: 800px){
-  main{
-    justify-content: center;
-  }
+    .personagem{
+        flex-direction: column;
+        gap: 10px;
+    } 
+
+    main{
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+    }
 }
